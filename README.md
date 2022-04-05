@@ -1,9 +1,7 @@
 # finda
 
-A new Flutter project.
+Finda.ng is a great tool for online comparison shopping. We make it surprisingly easy for you to find a product, know about that product and compare it with others. Our goal is to provide the best comparison shopping experience on the Internet and establish finda as the most trusted and effective online destination to make a purchase decision.
 
-a command to fix build number
+This project is currently offline, but you can find the demo video here
 
- flutter build appbundle --build-number=9
-
-click_action: FLUTTER_NOTIFICATION_CLICK
+https://youtu.be/iOS0IrRA8XM
