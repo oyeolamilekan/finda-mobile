@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240650855636",
+    "firebase_url": "https://finda-f64f2.firebaseio.com",
+    "project_id": "finda-f64f2",
+    "storage_bucket": "finda-f64f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240650855636:android:bea57ed5c0b2f114630741",
+        "android_client_info": {
+          "package_name": "co.appstate.finda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240650855636-nn3eefmsr5uktu4ebo74kgsg7oqu7jkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAxzto5ZL8rZA5WnLFETJjLZJgzA2NAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240650855636-nn3eefmsr5uktu4ebo74kgsg7oqu7jkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
